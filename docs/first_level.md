@@ -2,12 +2,15 @@
 
 First level analysis processes the functional images for each subject.
 
+## Check that the needed scripts are there
+
 Files that are needed to run a first level analsyis are
 
     design_run1.fsf        design_run2.fsf
     congruent_run1.txt     congruent_run2.txt
     incongruent_run1.txt   incongruent_run2.txt
 
+## Running the first level analysis
 
 The first level analyses are run in two steps.
 
