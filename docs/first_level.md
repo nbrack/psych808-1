@@ -22,7 +22,7 @@ The first level analyses are run in two steps.
 The Registation of the high resolution to standard image should look something
 like this.
 
-![image][highres2standard.png]
+![image](highres2standard.png)
 
 If there are substantial red lines outside of the brain, then there may
 be problems, and you should flag the subject for review.
